@@ -11,6 +11,9 @@ type markdownViewerProps = {
 }
 ```
 
+![image](https://github.com/Sibindra/climate-blogs-markdown/assets/59206903/7a7c036f-d90e-4d80-8af1-7f3aac70376d)
+
+
 ## 1. Environmental Impacts:
 
 ### a. Melting Ice and Rising Sea Levels:
