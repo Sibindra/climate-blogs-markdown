@@ -2,6 +2,15 @@
 
 Climate change presents a myriad of significant and far-reaching impacts on our planet's ecosystems, weather patterns, economies, and human societies. Understanding these impacts is crucial in realizing the urgency of addressing climate change and implementing solutions. Here's an in-depth look at the various sectors affected by climate change:
 
+
+```tsx
+
+type markdownViewerProps = {
+    className?: string;
+    markdownContent: string;
+}
+```
+
 ## 1. Environmental Impacts:
 
 ### a. Melting Ice and Rising Sea Levels:
