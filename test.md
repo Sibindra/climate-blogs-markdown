@@ -1,4 +1,6 @@
-# Installing Next.js and PostgreSQL on macOS, Windows, and Linux
+
+
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW53NWNmMHNheHB1ZG41Ymdnam00YTIwYXNrMzd6NmNrYTJldGFoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif)
 
 ## Introduction
 
