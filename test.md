@@ -3,9 +3,6 @@
 Next.js and PostgreSQL are powerful tools for building modern web applications. In this guide, we'll walk you through the installation process for both on macOS, Windows, and Linux. Follow the steps carefully, and you'll be ready to start developing robust web applications in no time.
 
 ---
-![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW53NWNmMHNheHB1ZG41Ymdnam00YTIwYXNrMzd6NmNrYTJldGFoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif)
-
----
 
 ## Interaction: Before We Begin
 
